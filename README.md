@@ -1,2 +1,2 @@
-# pass-the-script
+# QUEEN B SECURE
 Secure Password Generator
