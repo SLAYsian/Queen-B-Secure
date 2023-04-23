@@ -19,7 +19,7 @@ As an employee, I want to be able to generate a random, secure password, based o
 - Once you have made your selection, click "Ok" and your password will appear in the "Your Secure Password" box.
 - Highlight and copy to use!
 
-[Live](https://slayonce.github.io/Queen-B-Secure/)
+[Live](https://slaysian.github.io/Queen-B-Secure/)
 
 ### Screenshots:
 
